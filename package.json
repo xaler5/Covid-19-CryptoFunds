@@ -1,0 +1,26 @@
+{
+  "name": "covid-19-cryptofunds",
+  "version": "1.0.0",
+  "description": "A smart contract to collect eth and erc20 tokens to fight the Covid-19 crisis",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@openzeppelin/contracts": "^3.0.0-beta.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaler5/Covid-19-CryptoFunds.git"
+  },
+  "author": "Dario Lo Buglio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaler5/Covid-19-CryptoFunds/issues"
+  },
+  "homepage": "https://github.com/xaler5/Covid-19-CryptoFunds#readme"
+}
